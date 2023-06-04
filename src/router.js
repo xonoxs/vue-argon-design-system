@@ -71,7 +71,7 @@ export default new Router({
     },
     {
       path: "/registered",
-      name: "registered",
+      name: "registerede",
       components: {
         header: AppHeader,
         default: Profile,
