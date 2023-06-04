@@ -7,8 +7,6 @@ import Landing from "./views/Landing.vue";
 import Login from "./views/Login.vue";
 import Register from "./views/Register.vue";
 import Profile from "./views/Profile.vue";
-import Profile from "./views/Testing.vue";
-import Profile from "./views/Registered.vue";
 
 Vue.use(Router);
 
@@ -54,24 +52,6 @@ export default new Router({
     {
       path: "/profile",
       name: "profile",
-      components: {
-        header: AppHeader,
-        default: Profile,
-        footer: AppFooter
-      }
-    },
-    {
-      path: "/testing",
-      name: "testing",
-      components: {
-        header: AppHeader,
-        default: Profile,
-        footer: AppFooter
-      }
-    },
-    {
-      path: "/registered",
-      name: "registerede",
       components: {
         header: AppHeader,
         default: Profile,
