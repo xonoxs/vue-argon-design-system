@@ -58,6 +58,15 @@ export default new Router({
         default: Profile,
         footer: AppFooter
       }
+    },
+    {
+      path: "/testing",
+      name: "testing",
+      components: {
+        header: AppHeader,
+        default: Profile,
+        footer: AppFooter
+      }
     }
   ],
   scrollBehavior: to => {
