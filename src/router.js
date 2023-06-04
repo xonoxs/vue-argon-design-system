@@ -65,7 +65,7 @@ export default new Router({
       name: "registered",
       components: {
         header: AppHeader,
-        default: Testing,
+        default: Registered,
         footer: AppFooter
       }
     },
