@@ -50,6 +50,15 @@ export default new Router({
       }
     },
     {
+      path: "/testing",
+      name: "testing",
+      components: {
+        header: AppHeader,
+        default: Testing,
+        footer: AppFooter
+      }
+    },
+    {
       path: "/profile",
       name: "profile",
       components: {
