@@ -11,8 +11,11 @@
             <span></span>
         </div>
         <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
-        <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the style</button>
-        <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the adventure</button>
+        <div style="display: inline-grid; justify-content:end;">
+        <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the style</button></div>
+        <div style="display: inline-grid; justify-content:start;">
+        <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the adventure</button></div>
+        
         </div>
         <div class="container pt-lg-md">
             <div class="row justify-content-center">
