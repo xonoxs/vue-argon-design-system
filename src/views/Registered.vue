@@ -10,8 +10,9 @@
             <span></span>
             <span></span>
         </div>
-        <div class="herobtnone" style="width: 100%;">
-        <button style="padding:6px 25px;">Join</button>
+        <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
+        <button style="padding:6px 25px;">Join the style</button>
+        <button style="padding:6px 25px;">Join the adventure</button>
         </div>
         <div class="container pt-lg-md">
             <div class="row justify-content-center">
