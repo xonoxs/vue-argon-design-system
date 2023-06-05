@@ -10,6 +10,7 @@
             <span></span>
             <span></span>
         </div>
+        <button>Join</button>
         <div class="container pt-lg-md">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
