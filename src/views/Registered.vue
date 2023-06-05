@@ -10,7 +10,9 @@
             <span></span>
             <span></span>
         </div>
-        <button>Join</button>
+        <div class="herobtnone" style="width: 100%;">
+        <button style="padding:6px 25px;">Join</button>
+        </div>
         <div class="container pt-lg-md">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
