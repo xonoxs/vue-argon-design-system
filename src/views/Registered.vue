@@ -9,7 +9,7 @@
         <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the adventure</button></div>
         
         </div>
-        <div class="container pt-lg-md">
+        <!-- <div class="container pt-lg-md">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
                     <card type="secondary" shadow
@@ -70,7 +70,7 @@
                     </card>
                 </div>
             </div>
-        </div>
+        </div> -->
     </section>
 </template>
 <script>
