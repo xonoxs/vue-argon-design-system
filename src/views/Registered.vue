@@ -9,6 +9,7 @@
         <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the adventure</button></div>
         
         </div>
+        <h1 style="font-size:84px; rotate: 2deg;">Steak it easy<h1>
         <!-- <div class="container pt-lg-md">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
