@@ -1,6 +1,6 @@
 <template>
     <section class="section section-shaped section-lg my-0">
-        <div class="shape shape-style-1 bg-gradient-default" style="background: url('img/brand/portal.jpg');">
+        <div class="shape shape-style-1" style="background: url('img/brand/portal.jpg'); background-repeat: no-repeat; background-size: cover;">
         </div>
         <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
         <div style="display: inline-grid; justify-content:end;">
