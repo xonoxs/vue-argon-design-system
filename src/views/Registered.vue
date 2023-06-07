@@ -9,8 +9,8 @@
         
         <button class="btn btn-3 btn-icon btn-primary">
         <base-button tag="a"
-        href="/testing.vue"
-        class="mb-3 mb-sm-0"
+        href="./testing.vue"
+        class=""
         type="info"
         icon="fa fa-code">Join the style
         </base-button>
