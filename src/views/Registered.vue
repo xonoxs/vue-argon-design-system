@@ -5,7 +5,16 @@
         <h1 style="font-size:10em; rotate: -2deg; text-align: center; font-weight:900; color:#fff; line-height:1em;">Steak<br>it easy!</h1>
         <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; grid-gap: 4em; position:absolute; bottom:3em;">
         <div style="display: inline-grid; justify-content:end;">
-        <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the style</button></div>
+        
+        
+        <button class="btn btn-3 btn-icon btn-primary">
+        <base-button tag="a"
+        href="/testing.vue"
+        class="mb-3 mb-sm-0"
+        type="info"
+        icon="fa fa-code">Join the style
+        </base-button>
+         </button></div>
         <div style="display: inline-grid; justify-content:start;">
         <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the adventure</button></div>
         </div>
