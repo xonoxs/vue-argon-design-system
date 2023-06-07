@@ -9,7 +9,7 @@
         
         <button class="btn btn-3 btn-icon btn-primary">
         <base-button tag="a"
-        href="#/testing.vue"
+        href="#/testing/"
         class=""
         type="info"
         icon="fa fa-code">Join the style
