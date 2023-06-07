@@ -2,8 +2,8 @@
     <section class="section section-shaped section-lg my-0" style="height: 100vH;">
         <div class="shape shape-style-1" style="background: url('img/brand/portal.jpg'); background-repeat: no-repeat; background-size: cover;">
         </div>
-        <h1 style="font-size:84px; rotate: -2deg; text-align: center; font-weight:900; color:#fff;l ine-height:1em;">Steak<br>it easy!</h1>
-        <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; position:absolute: bottom:3em;">
+        <h1 style="font-size:10em; rotate: -2deg; text-align: center; font-weight:900; color:#fff; line-height:1em;">Steak<br>it easy!</h1>
+        <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; position:absolute; bottom:3em;">
         <div style="display: inline-grid; justify-content:end;">
         <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the style</button></div>
         <div style="display: inline-grid; justify-content:start;">
