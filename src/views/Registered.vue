@@ -2,7 +2,7 @@
     <section class="section section-shaped section-lg my-0" style="height: 100vH;">
         <div class="shape shape-style-1" style="background: url('img/brand/portal.jpg'); background-repeat: no-repeat; background-size: cover;">
         </div>
-        <h1 style="font-size:84px; rotate: -2deg; text-align: center;">Steak<br>it easy!<h1>
+        <h1 style="font-size:84px; rotate: -2deg; text-align: center;">Steak<br>it easy!</h1>
         <div class="herobtnone" style="width: 100%; display: grid; grid-template-columns: 1fr 1fr;">
         <div style="display: inline-grid; justify-content:end;">
         <button class="btn btn-3 btn-icon btn-primary" style="padding:6px 25px; width:max-content;">Join the style</button></div>
